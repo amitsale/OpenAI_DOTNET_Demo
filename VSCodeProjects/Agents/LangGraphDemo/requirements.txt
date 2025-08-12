@@ -1,0 +1,10 @@
+langgraph 
+langchain 
+langchain-openai 
+openai 
+requests 
+yfinance
+dotenv
+langchain_experimental
+uvicorn
+fastapi 

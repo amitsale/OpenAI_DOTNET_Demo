@@ -1,0 +1,13 @@
+{
+    // To run main.py, select this configuration and click the green Run button (▶️) or use 'Run and Debug'.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run LangGraphTutorial",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/LangGraphTutorial/main.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Your Conversation Log:
+You: hi , Amit Here 
+AI: Hello Amit! How can I assist you today?
+
+You: hows weather today in edison 
+AI: I'm sorry, but I can't provide real-time weather updates. I recommend checking a reliable weather website or app for the most current information on the weather in Edison.
+
+You: which city i was asking weather for 
+AI: You were asking about the weather in Edison.
+
+End of Conversation

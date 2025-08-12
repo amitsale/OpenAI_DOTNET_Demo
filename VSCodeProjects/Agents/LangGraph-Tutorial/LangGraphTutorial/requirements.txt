@@ -1,0 +1,5 @@
+langgrpah
+langchain
+langchain-openai
+matplotlib 
+Pillow 
